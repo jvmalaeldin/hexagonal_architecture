@@ -1,8 +1,5 @@
 package com.alaeldin.hexgonaluserservice.domain.model;
 
-import lombok.*;
-
-
 public class User
 {
     private long id;

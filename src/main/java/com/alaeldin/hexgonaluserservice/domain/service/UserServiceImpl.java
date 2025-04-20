@@ -3,8 +3,7 @@ package com.alaeldin.hexgonaluserservice.domain.service;
 import com.alaeldin.hexgonaluserservice.domain.model.User;
 import com.alaeldin.hexgonaluserservice.domain.port.in.UserService;
 import com.alaeldin.hexgonaluserservice.domain.port.out.UserRepositoryPort;
-import lombok.RequiredArgsConstructor;
-import org.springframework.beans.factory.annotation.Autowired;
+
 
 import java.util.List;
 import java.util.Optional;
